@@ -1,4 +1,4 @@
-// ===== NAVIGATION =====
+// ===== NAVIGATION main.js=====
 window.addEventListener('scroll', () => {
     const nav = document.getElementById('nav');
     if (window.scrollY > 50) {
