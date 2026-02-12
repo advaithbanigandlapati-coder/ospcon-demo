@@ -1,4 +1,4 @@
-// ===== DASHBOARD FUNCTIONALITY =====
+// ===== DASHBOARD FUNCTIONALITY Dashboard.js=====
 
 function showDashboard() {
     const mainContent = document.getElementById('main-content');
